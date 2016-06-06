@@ -1,0 +1,7 @@
+setup.py
+takemehome.egg-info/PKG-INFO
+takemehome.egg-info/SOURCES.txt
+takemehome.egg-info/dependency_links.txt
+takemehome.egg-info/not-zip-safe
+takemehome.egg-info/requires.txt
+takemehome.egg-info/top_level.txt
