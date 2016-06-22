@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from setuptools import setup
 
 setup(
@@ -8,5 +11,5 @@ setup(
   author='Ted Li',
   author_email='tedwxli@example.com',
   license='MIT',
-  install_requires=['colorama', 'subprocess'],
+  install_requires=['colorama'],
   zip_safe=False)

@@ -1,0 +1,8 @@
+// Sample project.json
+{
+  'relative_path' : 'ML/contact_dynamics',
+  'remotes' : [
+    'github' : 'http://github.com/lwxted/a.git',
+    'dropbox' : '...',
+  ]
+}

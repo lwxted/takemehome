@@ -5,7 +5,6 @@ from colorama import init, Back, Fore, Style
 init()
 
 class cprint(object):
-
   @staticmethod
   def ok(s):
     print '{} OK {} {}'.format(
